@@ -1,2 +1,2 @@
 # carpooling_Api
-A laravel and vue js SPA for Car Sharing.
+A laravel Api for Car Sharing.
